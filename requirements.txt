@@ -22,19 +22,10 @@ diffusers>=0.31.0
 av>=14.2.0
 comfyui-frontend-package==1.18.10
 comfyui-workflow-templates==0.1.14
-
-# ComfyUI-AdvancedLivePortrait
 dill
-
-# Inspire
 webcolors
-
-# fix for pydantic issues in cog
-# https://github.com/replicate/cog/issues/1623
-albumentations==1.4.3
-
-# was-node-suite-comfyui
-# https://github.com/WASasquatch/was-node-suite-comfyui/blob/main/requirements.txt
+albumentations
+pydantic~=2.0
 cmake
 imageio
 joblib
@@ -42,30 +33,15 @@ matplotlib
 pilgram
 scikit-learn
 rembg
-
-# ComfyUI_essentials
 numba
-
-# ComfyUI_FizzNodes
 pandas
 numexpr
-
-# comfyui-reactor-node
 insightface
 onnx
-
-# ComfyUI-Impact-Pack
 segment-anything
 piexif
-
-# ComfyUI-Impact-Subpack
 ultralytics!=8.0.177
-
-# comfyui_segment_anything
 timm
-
-# comfyui_controlnet_aux
-# https://github.com/Fannovel16/comfyui_controlnet_aux/blob/main/requirements.txt
 importlib_metadata
 opencv-python-headless>=4.0.1.24
 filelock
@@ -81,20 +57,10 @@ ftfy
 addict
 yacs
 trimesh[easy]
-
-# ComfyUI-KJNodes
 librosa
 color-matcher
-
-# PuLID
 facexlib
-
-# SUPIR
 open-clip-torch>=2.24.0
 pytorch-lightning>=2.2.1
-
-# For train.py and custom loras
 huggingface_hub[hf-transfer]
-
-# ComfyUI-segment-anything-2
 iopath
