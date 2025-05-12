@@ -1,3 +1,16 @@
+## 2025-05-12
+
+- [Update ComfyUI to latest](https://github.com/comfyanonymous/ComfyUI/compare/8115a78...577de83)
+- [Updated ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo/compare/ddb9667...e63938b)
+- [Updated ComfyUI_BiRefNet_ll](https://github.com/lldacing/ComfyUI_BiRefNet_ll/compare/617827c...2e16e4b)
+- [Updated rgthree-comfy](https://github.com/rgthree/rgthree-comfy/compare/5dc5332...6c5f7c9)
+- [Updated comfyui_jankhidiffusion](https://github.com/blepping/comfyui_jankhidiffusion/compare/54d60e0...8de02bc)
+- [Updated ComfyUI-Frame-Interpolation](https://github.com/Fannovel16/ComfyUI-Frame-Interpolation/compare/7578205...a969c01)
+- [Updated ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes/compare/c3dc821...bec4225)
+- [Updated was-node-suite-comfyui](https://github.com/WASasquatch/was-node-suite-comfyui/compare/831199b...1cd8d30)
+- [Updated ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts/compare/ba22ba1...aac13aa)
+- [Updated ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale/compare/778a475...4ab93ca)
+
 ## 2025-04-28
 
 New weights:
