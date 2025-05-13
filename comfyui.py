@@ -268,7 +268,7 @@ class ComfyUI:
                         "exception_message" in error_data
                         and "Unauthorized: Please login first to use this node" in error_data["exception_message"]
                     ):
-                        raise Exception("ComfyUI API nodes are not currently supported. Please use local nodes instead.")
+                        raise Exception("ComfyUI API nodes are not currently supported.")
 
                     error_message = json.dumps(message, indent=2)
                     raise Exception(
