@@ -1,3 +1,10 @@
+
+## 2025-05-13
+
+- [flux1-Fill-Dev_FP8.safetensors (diffusion_models)](https://huggingface.co/Academia-SD/flux1-Fill-Dev-FP8/blob/main/flux1-Fill-Dev_FP8.safetensors)
+- [ace_step_v1_3.5b.safetensors (checkpoints)](https://huggingface.co/Comfy-Org/ACE-Step_ComfyUI_repackaged/blob/main/all_in_one/ace_step_v1_3.5b.safetensors)
+- [dreamCreationVirtual3DECommerce_v10.safetensors (checkpoints)](https://civitai.com/api/download/models/731340?type=Model&format=SafeTensor&size=full&fp=fp16)
+
 ## 2025-05-12
 
 - [Update ComfyUI to latest](https://github.com/comfyanonymous/ComfyUI/compare/8115a78...577de83)
