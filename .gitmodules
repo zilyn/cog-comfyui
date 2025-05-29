@@ -1,4 +1,4 @@
 [submodule "ComfyUI"]
 	path = ComfyUI
 	url = https://github.com/comfyanonymous/ComfyUI.git
-	commit = 577de83ca9c99e997825439e017113456c4c78f7
+	commit = f2289a1f597082ef8dc5895d7dd4b57edfa96ac8
