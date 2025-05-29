@@ -1,6 +1,15 @@
 ## 2025-05-29
 
 - [Update ComfyUI to latest](https://github.com/comfyanonymous/ComfyUI/compare/577de83...f2289a1)
+- [Updated ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo/compare/e63938b...6e9e6de)
+- [Updated ComfyUI_BiRefNet_ll](https://github.com/lldacing/ComfyUI_BiRefNet_ll/compare/2e16e4b...db2564c)
+- [Updated ComfyUI-Florence2](https://github.com/kijai/ComfyUI-Florence2/compare/18f62ac...de485b6)
+- [Updated ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper/compare/83f0bbb...3ce9640)
+- [Updated rgthree-comfy](https://github.com/rgthree/rgthree-comfy/compare/6c5f7c9...b775441)
+- [Updated ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes/compare/bec4225...b95b79e)
+- [Updated ComfyUI_UltimateSDUpscale](https://github.com/ssitu/ComfyUI_UltimateSDUpscale/compare/4ab93ca...d033884)
+- [Updated comfyui-tooling-nodes](https://github.com/Acly/comfyui-tooling-nodes/compare/5f4373d...bff22b8)
+- [Updated ComfyUI-Inspire-Pack](https://github.com/ltdrdata/ComfyUI-Inspire-Pack/compare/0f38db4...291d3dd)
 
 ## 2025-05-13
 
